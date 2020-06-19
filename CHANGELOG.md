@@ -8,6 +8,8 @@ User-visible changes worth mentioning.
 ## master
 
 - [#PR ID] Your PR description.
+- [#1421] Add Resource Owner instance to authorization hook context for `custom_access_token_expires_in`
+  configuration option to allow resource owner based Access Tokens TTL.
 
 ## 5.4.0
 
